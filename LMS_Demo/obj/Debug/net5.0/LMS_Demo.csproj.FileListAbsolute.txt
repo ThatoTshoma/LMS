@@ -1789,3 +1789,4 @@ C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.pdb
 C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.genruntimeconfig.cache
 C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\ref\LMS_Demo.dll
 C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Shared\_StudentLayout.cshtml.g.cs
+C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Quiz\Index.cshtml.g.cs

@@ -1,0 +1,57 @@
+﻿@model IEnumerable<LMS_Demo.Models.Quiz>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@foreach (var item in Model)
+{
+    <table class="table">
+        <tr>
+            <td>@item.Qid ) @item.Question</td>
+        </tr>
+        <tr>
+            <td>
+                <input id="option1" type="radio" name="@item.Qid" class="rb" value="@item.OptionA"/>@item.OptionA
+                <input id="option2" type="radio" name="@item.Qid" class="rb" value="@item.OptionB"/>@item.OptionB
+                <input id="option3" type="radio" name="@item.Qid" class="rb" value="@item.OptionC"/>@item.OptionC
+                <input id="option4" type="radio" name="@item.Qid" class="rb" value="@item.OptionD"/>@item.OptionD
+                <label name="@item.Qid" class="rb" style="display:none; color:forestgreen; font:bold;">@item.CorrectAnswer</label>
+            </td>
+        </tr>
+    </table>
+
+}
+<button id="but1" type="button" value="submit" class="btn-success" onclick="displayresult()">Submit</button>
+<label id="lbluseranswer"></label>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+
+
+<script>
+$(document).ready(function () 
+{
+    $("#but1").click(function() {
+        $(".rb").show();
+        $(".rb").attr("disabled", true);
+    });
+})
+    
+
+function displayresult() {
+    document.getElementById("lbluseranswer").innerHTML = "";
+    var result = document.getElementsByTagName('input');
+    for (i = 0; i < result.length; i++) {
+        if (result[i].type == "radio"){
+            if (result[i].checked) {
+                document.getElementById("lbluseranswer").innerHTML += "Q " + result[i].name + ")" + "Your Selected Answe is : " + result[i].value + "</br>";
+            }
+        }
+    }
+}
+</script>
