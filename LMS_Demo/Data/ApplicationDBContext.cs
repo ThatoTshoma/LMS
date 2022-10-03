@@ -30,6 +30,7 @@ namespace LMS_Demo.Data
         public DbSet<SubmitAssignment> SubmitAssignment { get; set; }
         public DbSet<Teach> Teaches { get; set; }
         public DbSet<Year> Years { get; set; }
+        public DbSet<AssesmentAttachments> AssesmentAttachments { get; set; }
 
 
 

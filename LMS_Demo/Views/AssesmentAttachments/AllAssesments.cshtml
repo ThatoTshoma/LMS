@@ -1,0 +1,86 @@
+﻿@model IEnumerable<LMS_Demo.Models.AssesmentAttachments>
+
+@{
+    ViewData["Title"] = "AllAssesments";
+       Layout = "~/Views/Shared/_StudentLayout.cshtml";
+}
+
+<h1>Index</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+          
+          
+            <th>
+                @Html.DisplayNameFor(model => model.OpenDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DueDate)
+            </th>
+           
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalMark)
+            </th>
+          
+            <th>
+                @Html.DisplayNameFor(model => model.Module)
+            </th>
+          
+            <th>
+                @Html.DisplayNameFor(model => model.Section)
+            </th>
+      
+              <th>
+                @Html.DisplayNameFor(model => model.Attachment)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+           
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.OpenDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DueDate)
+            </td>
+           
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalMark)
+            </td>
+           
+            <td>
+                @Html.DisplayFor(modelItem => item.Module.ModuleName)
+            </td>
+          
+            <td>
+                @Html.DisplayFor(modelItem => item.Section.SectionName)
+            </td>
+          
+             <td>
+                @Html.DisplayFor(modelItem => item.Attachment)
+            </td>
+            <td>
+                <a asp-action="Download" asp-route-id="@item.AttachID">Download</a> 
+             
+            </td>
+            <td>
+               <a href="~/SubmitAssignments/Create?assesmentID=@item.AttachID" class="btn btn-block btn-primary li" style="margin-bottom:10px;width:95%"><i class="fa-send"></i>Submit</a>
+             
+            </td>
+
+        </tr>
+}
+    </tbody>
+</table>

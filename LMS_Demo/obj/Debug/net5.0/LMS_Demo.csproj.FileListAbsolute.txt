@@ -1790,3 +1790,9 @@ C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.genr
 C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\ref\LMS_Demo.dll
 C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Shared\_StudentLayout.cshtml.g.cs
 C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Quiz\Index.cshtml.g.cs
+C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\AssesmentAttachments\AllAssesments.cshtml.g.cs
+C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\AssesmentAttachments\Create.cshtml.g.cs
+C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\AssesmentAttachments\Delete.cshtml.g.cs
+C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\AssesmentAttachments\Details.cshtml.g.cs
+C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\AssesmentAttachments\Edit.cshtml.g.cs
+C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\AssesmentAttachments\Index.cshtml.g.cs

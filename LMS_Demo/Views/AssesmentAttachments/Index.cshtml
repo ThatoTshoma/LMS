@@ -1,0 +1,83 @@
+﻿@model IEnumerable<LMS_Demo.Models.AssesmentAttachments>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+          
+           
+            <th>
+                @Html.DisplayNameFor(model => model.OpenDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DueDate)
+            </th>
+           
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalMark)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Attachment)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Module)
+            </th>
+         
+        
+            <th>
+                @Html.DisplayNameFor(model => model.Year)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+           
+           
+            <td>
+                @Html.DisplayFor(modelItem => item.OpenDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DueDate)
+            </td>
+           
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalMark)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Attachment)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Module.ModuleName)
+            </td>
+         
+            <td>
+                @Html.DisplayFor(modelItem => item.Section.SectionName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Year.YearName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.AttachID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.AttachID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.AttachID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

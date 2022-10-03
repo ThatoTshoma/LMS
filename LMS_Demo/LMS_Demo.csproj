@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\jss\" />
+    <Folder Include="wwwroot\Attachments\" />
   </ItemGroup>
 
   <ItemGroup>

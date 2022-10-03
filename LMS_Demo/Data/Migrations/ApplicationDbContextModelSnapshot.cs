@@ -93,6 +93,227 @@ namespace LMS_Demo.Data.Migrations
                     b.ToTable("AspNetUsers");
                 });
 
+            modelBuilder.Entity("LMS_Demo.Models.Assesment", b =>
+                {
+                    b.Property<int>("AssesmentID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<int?>("AssesmentTypeID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("AssessmentName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Attachment")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Description")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("DueDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int?>("FacultyID")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("LecturerStudentID")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("ModuleID")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("OpenDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int?>("SectionID")
+                        .HasColumnType("int");
+
+                    b.Property<int>("TotalMark")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("YearID")
+                        .HasColumnType("int");
+
+                    b.HasKey("AssesmentID");
+
+                    b.HasIndex("AssesmentTypeID");
+
+                    b.HasIndex("FacultyID");
+
+                    b.HasIndex("LecturerStudentID");
+
+                    b.HasIndex("ModuleID");
+
+                    b.HasIndex("SectionID");
+
+                    b.HasIndex("YearID");
+
+                    b.ToTable("Assesments");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.AssesmentAttachments", b =>
+                {
+                    b.Property<int>("AttachID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<int?>("AssesmentTypeTypeID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("AttachName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Attachment")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Description")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("DueDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int?>("FacultyID")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("LectureID")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("LecturerStudentID")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("ModuleID")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime?>("OpenDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int?>("SectionID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("TotalMark")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("TypeID")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("YearID")
+                        .HasColumnType("int");
+
+                    b.HasKey("AttachID");
+
+                    b.HasIndex("AssesmentTypeTypeID");
+
+                    b.HasIndex("FacultyID");
+
+                    b.HasIndex("LecturerStudentID");
+
+                    b.HasIndex("ModuleID");
+
+                    b.HasIndex("SectionID");
+
+                    b.HasIndex("YearID");
+
+                    b.ToTable("AssesmentAttachments");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.AssesmentType", b =>
+                {
+                    b.Property<int>("TypeID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("TypeName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("TypeID");
+
+                    b.ToTable("AssesmentTypes");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Faculty", b =>
+                {
+                    b.Property<int>("FacultyID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("FacultyName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("FacultyID");
+
+                    b.ToTable("Faculties");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Lecturer", b =>
+                {
+                    b.Property<int>("StudentID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Email")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("FacultyID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("FirstName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("FullName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LastName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Phone")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("StudentID");
+
+                    b.HasIndex("FacultyID");
+
+                    b.ToTable("Lecturers");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Module", b =>
+                {
+                    b.Property<int>("ModuleID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<int?>("FacultyID")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("LecturerStudentID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ModuleCode")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ModuleName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("YearID")
+                        .HasColumnType("int");
+
+                    b.HasKey("ModuleID");
+
+                    b.HasIndex("FacultyID");
+
+                    b.HasIndex("LecturerStudentID");
+
+                    b.HasIndex("YearID");
+
+                    b.ToTable("Modules");
+                });
+
             modelBuilder.Entity("LMS_Demo.Models.Quiz", b =>
                 {
                     b.Property<int>("Qid")
@@ -121,6 +342,193 @@ namespace LMS_Demo.Data.Migrations
                     b.HasKey("Qid");
 
                     b.ToTable("Quizzes");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Result", b =>
+                {
+                    b.Property<int>("ResultID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<int?>("AssesmentID")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("LecturerID")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Mark")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("StudentID")
+                        .HasColumnType("int");
+
+                    b.HasKey("ResultID");
+
+                    b.HasIndex("AssesmentID");
+
+                    b.HasIndex("LecturerID");
+
+                    b.HasIndex("StudentID");
+
+                    b.ToTable("Results");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Section", b =>
+                {
+                    b.Property<int>("SectionID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("SectionName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("YearID")
+                        .HasColumnType("int");
+
+                    b.HasKey("SectionID");
+
+                    b.HasIndex("YearID");
+
+                    b.ToTable("Sections");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Student", b =>
+                {
+                    b.Property<int>("StudentID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Email")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("FacultyID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("FirstName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("FullName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LastName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Phone")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("SectionID")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("YearID")
+                        .HasColumnType("int");
+
+                    b.HasKey("StudentID");
+
+                    b.HasIndex("FacultyID");
+
+                    b.HasIndex("SectionID");
+
+                    b.HasIndex("YearID");
+
+                    b.ToTable("Students");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.SubmitAssignment", b =>
+                {
+                    b.Property<int>("SubmitID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<int?>("AssesmentID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("FilePath")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("StudentID")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("SubmissionDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("SubmitID");
+
+                    b.HasIndex("AssesmentID");
+
+                    b.HasIndex("StudentID");
+
+                    b.ToTable("SubmitAssignment");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Teach", b =>
+                {
+                    b.Property<int>("TeachID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<int?>("FacultyID")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("LecturerID")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("ModuleID")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("SectionID")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("YearID")
+                        .HasColumnType("int");
+
+                    b.HasKey("TeachID");
+
+                    b.HasIndex("FacultyID");
+
+                    b.HasIndex("LecturerID");
+
+                    b.HasIndex("ModuleID");
+
+                    b.HasIndex("SectionID");
+
+                    b.HasIndex("YearID");
+
+                    b.ToTable("Teaches");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Year", b =>
+                {
+                    b.Property<int>("YearID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("YearName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("YearID");
+
+                    b.ToTable("Years");
+                });
+
+            modelBuilder.Entity("LecturerStudent", b =>
+                {
+                    b.Property<int>("LecturersStudentID")
+                        .HasColumnType("int");
+
+                    b.Property<int>("StudentsStudentID")
+                        .HasColumnType("int");
+
+                    b.HasKey("LecturersStudentID", "StudentsStudentID");
+
+                    b.HasIndex("StudentsStudentID");
+
+                    b.ToTable("LecturerStudent");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
@@ -258,6 +666,220 @@ namespace LMS_Demo.Data.Migrations
                     b.ToTable("AspNetUserTokens");
                 });
 
+            modelBuilder.Entity("LMS_Demo.Models.Assesment", b =>
+                {
+                    b.HasOne("LMS_Demo.Models.AssesmentType", "AssesmentType")
+                        .WithMany("Assesments")
+                        .HasForeignKey("AssesmentTypeID");
+
+                    b.HasOne("LMS_Demo.Models.Faculty", "Faculty")
+                        .WithMany("Assesments")
+                        .HasForeignKey("FacultyID");
+
+                    b.HasOne("LMS_Demo.Models.Lecturer", null)
+                        .WithMany("Assesments")
+                        .HasForeignKey("LecturerStudentID");
+
+                    b.HasOne("LMS_Demo.Models.Module", "Module")
+                        .WithMany("Assesments")
+                        .HasForeignKey("ModuleID");
+
+                    b.HasOne("LMS_Demo.Models.Section", "Section")
+                        .WithMany("Assesments")
+                        .HasForeignKey("SectionID");
+
+                    b.HasOne("LMS_Demo.Models.Year", "Year")
+                        .WithMany("Assesments")
+                        .HasForeignKey("YearID");
+
+                    b.Navigation("AssesmentType");
+
+                    b.Navigation("Faculty");
+
+                    b.Navigation("Module");
+
+                    b.Navigation("Section");
+
+                    b.Navigation("Year");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.AssesmentAttachments", b =>
+                {
+                    b.HasOne("LMS_Demo.Models.AssesmentType", "AssesmentType")
+                        .WithMany()
+                        .HasForeignKey("AssesmentTypeTypeID");
+
+                    b.HasOne("LMS_Demo.Models.Faculty", "Faculty")
+                        .WithMany()
+                        .HasForeignKey("FacultyID");
+
+                    b.HasOne("LMS_Demo.Models.Lecturer", "Lecturer")
+                        .WithMany()
+                        .HasForeignKey("LecturerStudentID");
+
+                    b.HasOne("LMS_Demo.Models.Module", "Module")
+                        .WithMany()
+                        .HasForeignKey("ModuleID");
+
+                    b.HasOne("LMS_Demo.Models.Section", "Section")
+                        .WithMany()
+                        .HasForeignKey("SectionID");
+
+                    b.HasOne("LMS_Demo.Models.Year", "Year")
+                        .WithMany()
+                        .HasForeignKey("YearID");
+
+                    b.Navigation("AssesmentType");
+
+                    b.Navigation("Faculty");
+
+                    b.Navigation("Lecturer");
+
+                    b.Navigation("Module");
+
+                    b.Navigation("Section");
+
+                    b.Navigation("Year");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Lecturer", b =>
+                {
+                    b.HasOne("LMS_Demo.Models.Faculty", "Faculty")
+                        .WithMany()
+                        .HasForeignKey("FacultyID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Faculty");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Module", b =>
+                {
+                    b.HasOne("LMS_Demo.Models.Faculty", "Faculty")
+                        .WithMany("Modules")
+                        .HasForeignKey("FacultyID");
+
+                    b.HasOne("LMS_Demo.Models.Lecturer", null)
+                        .WithMany("Modules")
+                        .HasForeignKey("LecturerStudentID");
+
+                    b.HasOne("LMS_Demo.Models.Year", "Year")
+                        .WithMany("Modules")
+                        .HasForeignKey("YearID");
+
+                    b.Navigation("Faculty");
+
+                    b.Navigation("Year");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Result", b =>
+                {
+                    b.HasOne("LMS_Demo.Models.Assesment", "Assesment")
+                        .WithMany("Results")
+                        .HasForeignKey("AssesmentID");
+
+                    b.HasOne("LMS_Demo.Models.Lecturer", "Lecturer")
+                        .WithMany("Results")
+                        .HasForeignKey("LecturerID");
+
+                    b.HasOne("LMS_Demo.Models.Student", "Student")
+                        .WithMany("Results")
+                        .HasForeignKey("StudentID");
+
+                    b.Navigation("Assesment");
+
+                    b.Navigation("Lecturer");
+
+                    b.Navigation("Student");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Section", b =>
+                {
+                    b.HasOne("LMS_Demo.Models.Year", "Year")
+                        .WithMany("Sections")
+                        .HasForeignKey("YearID");
+
+                    b.Navigation("Year");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Student", b =>
+                {
+                    b.HasOne("LMS_Demo.Models.Faculty", "Faculty")
+                        .WithMany("Student")
+                        .HasForeignKey("FacultyID");
+
+                    b.HasOne("LMS_Demo.Models.Section", null)
+                        .WithMany("Students")
+                        .HasForeignKey("SectionID");
+
+                    b.HasOne("LMS_Demo.Models.Year", null)
+                        .WithMany("Students")
+                        .HasForeignKey("YearID");
+
+                    b.Navigation("Faculty");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.SubmitAssignment", b =>
+                {
+                    b.HasOne("LMS_Demo.Models.Assesment", "Assesment")
+                        .WithMany("SubmitAssignments")
+                        .HasForeignKey("AssesmentID");
+
+                    b.HasOne("LMS_Demo.Models.Student", "Student")
+                        .WithMany("SubmitAssignments")
+                        .HasForeignKey("StudentID");
+
+                    b.Navigation("Assesment");
+
+                    b.Navigation("Student");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Teach", b =>
+                {
+                    b.HasOne("LMS_Demo.Models.Faculty", "Faculty")
+                        .WithMany("Teaches")
+                        .HasForeignKey("FacultyID");
+
+                    b.HasOne("LMS_Demo.Models.Lecturer", "Lecturer")
+                        .WithMany("Teaches")
+                        .HasForeignKey("LecturerID");
+
+                    b.HasOne("LMS_Demo.Models.Module", "Module")
+                        .WithMany()
+                        .HasForeignKey("ModuleID");
+
+                    b.HasOne("LMS_Demo.Models.Section", null)
+                        .WithMany("Teaches")
+                        .HasForeignKey("SectionID");
+
+                    b.HasOne("LMS_Demo.Models.Year", "Year")
+                        .WithMany("Teaches")
+                        .HasForeignKey("YearID");
+
+                    b.Navigation("Faculty");
+
+                    b.Navigation("Lecturer");
+
+                    b.Navigation("Module");
+
+                    b.Navigation("Year");
+                });
+
+            modelBuilder.Entity("LecturerStudent", b =>
+                {
+                    b.HasOne("LMS_Demo.Models.Lecturer", null)
+                        .WithMany()
+                        .HasForeignKey("LecturersStudentID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("LMS_Demo.Models.Student", null)
+                        .WithMany()
+                        .HasForeignKey("StudentsStudentID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
                 {
                     b.HasOne("Microsoft.AspNetCore.Identity.IdentityRole", null)
@@ -307,6 +929,74 @@ namespace LMS_Demo.Data.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Assesment", b =>
+                {
+                    b.Navigation("Results");
+
+                    b.Navigation("SubmitAssignments");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.AssesmentType", b =>
+                {
+                    b.Navigation("Assesments");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Faculty", b =>
+                {
+                    b.Navigation("Assesments");
+
+                    b.Navigation("Modules");
+
+                    b.Navigation("Student");
+
+                    b.Navigation("Teaches");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Lecturer", b =>
+                {
+                    b.Navigation("Assesments");
+
+                    b.Navigation("Modules");
+
+                    b.Navigation("Results");
+
+                    b.Navigation("Teaches");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Module", b =>
+                {
+                    b.Navigation("Assesments");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Section", b =>
+                {
+                    b.Navigation("Assesments");
+
+                    b.Navigation("Students");
+
+                    b.Navigation("Teaches");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Student", b =>
+                {
+                    b.Navigation("Results");
+
+                    b.Navigation("SubmitAssignments");
+                });
+
+            modelBuilder.Entity("LMS_Demo.Models.Year", b =>
+                {
+                    b.Navigation("Assesments");
+
+                    b.Navigation("Modules");
+
+                    b.Navigation("Sections");
+
+                    b.Navigation("Students");
+
+                    b.Navigation("Teaches");
                 });
 #pragma warning restore 612, 618
         }
