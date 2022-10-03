@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
+
 
 namespace LMS_Demo.Controllers
 {
@@ -6,6 +8,8 @@ namespace LMS_Demo.Controllers
     {
         public IActionResult StudentDashbord()
         {
+           
+            var userId = HttpContext.User.FindFirstValue(ClaimTypes.NameIdentifier);
             return View();
         }
         public IActionResult FacilitatorDashbord()
