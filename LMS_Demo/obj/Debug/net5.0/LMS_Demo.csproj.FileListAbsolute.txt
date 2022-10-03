@@ -1,0 +1,1340 @@
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\appsettings.json
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.StaticWebAssets.xml
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.exe
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.deps.json
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.runtimeconfig.json
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.runtimeconfig.dev.json
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.pdb
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.Views.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.Views.pdb
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.csproj.AssemblyReference.cache
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.AssemblyInfoInputs.cache
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.AssemblyInfo.cs
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.csproj.CoreCompileInputs.cache
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.RazorAssemblyInfo.cache
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.RazorAssemblyInfo.cs
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\scopedcss\bundle\LMS_Demo.styles.css
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\staticwebassets\LMS_Demo.StaticWebAssets.Manifest.cache
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\staticwebassets\LMS_Demo.StaticWebAssets.xml
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.TagHelpers.input.cache
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.TagHelpers.output.cache
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.RazorCoreGenerate.cache
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.RazorTargetAssemblyInfo.cache
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.RazorTargetAssemblyInfo.cs
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.Views.pdb
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.csproj.CopyComplete
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\refint\LMS_Demo.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.pdb
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.genruntimeconfig.cache
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\ref\LMS_Demo.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\sngec\Desktop\2022\NMU 2022\ONT3601\ASP.NET Core MVC\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Home\Admin.cshtml.g.cs
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\appsettings.Development.json
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\appsettings.json
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.StaticWebAssets.xml
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.exe
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.deps.json
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.runtimeconfig.json
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.runtimeconfig.dev.json
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.pdb
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\mscorlib.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\netstandard.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.AppContext.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Buffers.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Collections.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ComponentModel.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Configuration.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Console.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Core.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Data.Common.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Data.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Drawing.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Globalization.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.Compression.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Linq.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Memory.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Http.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Mail.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Ping.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Requests.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Security.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Numerics.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ObjectModel.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Claims.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Principal.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Text.Json.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Transactions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ValueTuple.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Web.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Windows.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\WindowsBase.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.Views.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.Views.pdb
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Humanizer.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.csproj.AssemblyReference.cache
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.AssemblyInfoInputs.cache
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.AssemblyInfo.cs
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.csproj.CoreCompileInputs.cache
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.MvcApplicationPartsAssemblyInfo.cs
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.MvcApplicationPartsAssemblyInfo.cache
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.RazorAssemblyInfo.cache
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.RazorAssemblyInfo.cs
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\scopedcss\bundle\LMS_Demo.styles.css
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\staticwebassets\LMS_Demo.StaticWebAssets.Manifest.cache
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\staticwebassets\LMS_Demo.StaticWebAssets.xml
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.TagHelpers.input.cache
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.TagHelpers.output.cache
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.RazorCoreGenerate.cache
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Home\Admin.cshtml.g.cs
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.RazorTargetAssemblyInfo.cache
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.RazorTargetAssemblyInfo.cs
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.Views.pdb
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.csproj.CopyComplete
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.dll
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\refint\LMS_Demo.dll
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.pdb
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.genruntimeconfig.cache
+E:\LMS_Demo\LMS_Demo\obj\Debug\net5.0\ref\LMS_Demo.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\appsettings.json
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.StaticWebAssets.xml
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.exe
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.deps.json
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.runtimeconfig.json
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.runtimeconfig.dev.json
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.pdb
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.Views.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\LMS_Demo.Views.pdb
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.csproj.AssemblyReference.cache
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.AssemblyInfoInputs.cache
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.AssemblyInfo.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.csproj.CoreCompileInputs.cache
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.RazorAssemblyInfo.cache
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.RazorAssemblyInfo.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\scopedcss\bundle\LMS_Demo.styles.css
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\staticwebassets\LMS_Demo.StaticWebAssets.Manifest.cache
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\staticwebassets\LMS_Demo.StaticWebAssets.xml
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.TagHelpers.input.cache
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.TagHelpers.output.cache
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.RazorCoreGenerate.cache
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Home\Admin.cshtml.g.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.RazorTargetAssemblyInfo.cache
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.RazorTargetAssemblyInfo.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.Views.pdb
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.csproj.CopyComplete
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\refint\LMS_Demo.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.pdb
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\LMS_Demo.genruntimeconfig.cache
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\ref\LMS_Demo.dll
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Dashboard\AdminDashbord.cshtml.g.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Dashboard\FacilitatorDashbord.cshtml.g.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Dashboard\HODDashbord.cshtml.g.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Dashboard\SponsorDashbord.cshtml.g.cs
+C:\Users\THATO TSHOMA\Downloads\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\Dashboard\StudentDashbord.cshtml.g.cs
