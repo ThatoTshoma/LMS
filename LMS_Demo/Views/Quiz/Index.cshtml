@@ -2,13 +2,12 @@
 
 @{
     ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_StudentLayout.cshtml";
 }
 
-<h1>Index</h1>
+<h1>QUIZ</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+
 @foreach (var item in Model)
 {
     <table class="table">

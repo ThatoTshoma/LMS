@@ -17,7 +17,21 @@ namespace LMS_Demo.Data
         }
        //public DbSet<User> Users { get; set; }
        public DbSet<Quiz> Quizzes { get; set; }
-    
+
+        public DbSet<Student> Students { get; set; }
+        public DbSet<Assesment> Assesments { get; set; }
+        public DbSet<AssesmentType> AssesmentTypes { get; set; }
+        //public DbSet<Course> Course { get; set; }
+        public DbSet<Faculty> Faculties { get; set; }
+        public DbSet<Lecturer> Lecturers { get; set; }
+        public DbSet<Module> Modules { get; set; }
+        public DbSet<Result> Results { get; set; }
+        public DbSet<Section> Sections { get; set; }
+        public DbSet<SubmitAssignment> SubmitAssignment { get; set; }
+        public DbSet<Teach> Teaches { get; set; }
+        public DbSet<Year> Years { get; set; }
+
+
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
