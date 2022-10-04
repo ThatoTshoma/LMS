@@ -2,13 +2,12 @@
 
 @{
     ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_StudentLayout.cshtml";
 }
 
-<h1>Index</h1>
+<h1>My Summissions</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+
 <table class="table">
     <thead>
         <tr>
@@ -18,9 +17,7 @@
             <th>
                 @Html.DisplayNameFor(model => model.SubmissionDate)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Student)
-            </th>
+          
             <th>
                 @Html.DisplayNameFor(model => model.Assesment)
             </th>
@@ -36,9 +33,7 @@
             <td>
                 @Html.DisplayFor(modelItem => item.SubmissionDate)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Student.StudentID)
-            </td>
+         
             <td>
                 @Html.DisplayFor(modelItem => item.Assesment.AssesmentID)
             </td>

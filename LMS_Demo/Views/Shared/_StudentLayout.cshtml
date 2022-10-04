@@ -69,9 +69,11 @@
                 </div>
             </li>
             <li>
-                <button class="collapsible"><em class="fa fa-cog">&nbsp; &nbsp;</em>Manage</button>
+                <button class="collapsible"><em class="fa fa-cog">&nbsp; &nbsp;</em>Assesments</button>
                 <div style="width: 100% !important" class="children content">
-                    @Html.ActionLink("Change Password", "ChangePassword", "Manage", null, new { @class = "list-group-item", @style = "margin: 0px -20px; font-size: 13px" })
+                    @Html.ActionLink("View Assessments", "AllAssesments", "AssesmentAttachments", null, new { @class = "list-group-item", @style = "margin: 0px -20px; font-size: 13px" })
+                    @Html.ActionLink("Submitted Assessments", "Index", "SubmitAssignments", null, new { @class = "list-group-item", @style = "margin: 0px -20px; font-size: 13px" })
+
                 </div>
             </li>
             @Html.Partial("_LoginPartial")
