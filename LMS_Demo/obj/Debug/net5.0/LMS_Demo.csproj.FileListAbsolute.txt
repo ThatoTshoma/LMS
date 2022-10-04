@@ -1796,3 +1796,8 @@ C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\A
 C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\AssesmentAttachments\Details.cshtml.g.cs
 C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\AssesmentAttachments\Edit.cshtml.g.cs
 C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\AssesmentAttachments\Index.cshtml.g.cs
+C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\SubmitAssignments\Create.cshtml.g.cs
+C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\SubmitAssignments\Delete.cshtml.g.cs
+C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\SubmitAssignments\Details.cshtml.g.cs
+C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\SubmitAssignments\Edit.cshtml.g.cs
+C:\Users\THATO TSHOMA\Documents\LMS_Demo\LMS_Demo\obj\Debug\net5.0\Razor\Views\SubmitAssignments\Index.cshtml.g.cs

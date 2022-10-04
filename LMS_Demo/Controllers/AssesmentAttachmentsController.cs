@@ -11,7 +11,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 
 
-namespace Relationships.Controllers
+namespace LMS_Demo.Controllers
 {
     public class AssesmentAttachmentsController : Controller
     {
