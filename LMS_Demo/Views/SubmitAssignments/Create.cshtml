@@ -1,4 +1,9 @@
 ﻿@model LMS_Demo.Models.SubmitAssignment
+@using Microsoft.AspNetCore.Identity
+@using LMS_Demo.Data
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
 
 @{
     ViewData["Title"] = "Create";

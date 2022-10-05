@@ -103,7 +103,9 @@ namespace LMS_Demo.Controllers
         }
         public FileResult Download(string fileName)
         {
-            string path = Path.Combine(this._hostEnvironment.WebRootPath, "Attachments/") + fileName;
+            //var path = $"{this._hostEnvironment.WebRootPath}\\Attachments\\" + fileName;
+
+            var path = Path.Combine(this._hostEnvironment.WebRootPath, "Attachments/") + fileName;
             byte[] bytes = System.IO.File.ReadAllBytes(path);
             return File(bytes, "application/octet-stream", fileName);
         }

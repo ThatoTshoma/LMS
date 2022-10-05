@@ -1,4 +1,5 @@
 using LMS_Demo.Data;
+using LMS_Demo.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -32,6 +33,9 @@ namespace LMS_Demo
 
             services.AddDbContext<ApplicationDBContext>(options =>
                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+            services.AddScoped<IReportReposit, ReportReposit>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
