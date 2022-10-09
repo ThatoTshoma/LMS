@@ -6,17 +6,18 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using LMS_Demo.Models;
+using Microsoft.AspNet.Identity.EntityFramework;
 
 namespace LMS_Demo.Data
 {
-    public class ApplicationDBContext : IdentityDbContext<ApplicationUser>
+    public class ApplicationDBContext : Microsoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<ApplicationUser>
     {
         public ApplicationDBContext(DbContextOptions<ApplicationDBContext> options)
             : base(options)
         {
         }
-       //public DbSet<User> Users { get; set; }
-       public DbSet<Quiz> Quizzes { get; set; }
+        //public DbSet<User> Users { get; set; }
+        public DbSet<Quiz> Quizzes { get; set; }
 
         public DbSet<Student> Students { get; set; }
         public DbSet<Assesment> Assesments { get; set; }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\THATO TSHOMA\\Documents\\LMS_Demo\\LMS_Demo\\LMS_Demo.csproj": {}
+    "C:\\Users\\sngec\\Source\\Repos\\LMS\\LMS_Demo\\LMS_Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\THATO TSHOMA\\Documents\\LMS_Demo\\LMS_Demo\\LMS_Demo.csproj": {
+    "C:\\Users\\sngec\\Source\\Repos\\LMS\\LMS_Demo\\LMS_Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\THATO TSHOMA\\Documents\\LMS_Demo\\LMS_Demo\\LMS_Demo.csproj",
+        "projectUniqueName": "C:\\Users\\sngec\\Source\\Repos\\LMS\\LMS_Demo\\LMS_Demo.csproj",
         "projectName": "LMS_Demo",
-        "projectPath": "C:\\Users\\THATO TSHOMA\\Documents\\LMS_Demo\\LMS_Demo\\LMS_Demo.csproj",
-        "packagesPath": "C:\\Users\\THATO TSHOMA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\THATO TSHOMA\\Documents\\LMS_Demo\\LMS_Demo\\obj\\",
+        "projectPath": "C:\\Users\\sngec\\Source\\Repos\\LMS\\LMS_Demo\\LMS_Demo.csproj",
+        "packagesPath": "C:\\Users\\sngec\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sngec\\Source\\Repos\\LMS\\LMS_Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\THATO TSHOMA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sngec\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -51,6 +52,10 @@
             "AspNetCore.Reporting": {
               "target": "Package",
               "version": "[2.1.0, )"
+            },
+            "Microsoft.AspNet.Identity.EntityFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
             },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
@@ -93,7 +98,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -105,7 +111,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
