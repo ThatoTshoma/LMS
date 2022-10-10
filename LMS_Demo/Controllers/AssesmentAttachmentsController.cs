@@ -101,6 +101,7 @@ namespace LMS_Demo.Controllers
            // ViewData["TypeID"] = new SelectList(_db.AssesmentType, "TypeID", "TypeID", assesmentAttachments.TypeID);
             return View(assesmentAttachments);
         }
+   
         public FileResult Download(string fileName)
         {
             //var path = $"{this._hostEnvironment.WebRootPath}\\Attachments\\" + fileName;

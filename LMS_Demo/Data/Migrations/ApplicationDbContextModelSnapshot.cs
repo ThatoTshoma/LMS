@@ -354,10 +354,13 @@ namespace LMS_Demo.Data.Migrations
                     b.Property<int?>("AssesmentID")
                         .HasColumnType("int");
 
-                    b.Property<int?>("LecturerID")
+                    b.Property<int?>("LecturerStudentID")
                         .HasColumnType("int");
 
                     b.Property<int>("Mark")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("ModuleID")
                         .HasColumnType("int");
 
                     b.Property<int?>("StudentID")
@@ -367,7 +370,9 @@ namespace LMS_Demo.Data.Migrations
 
                     b.HasIndex("AssesmentID");
 
-                    b.HasIndex("LecturerID");
+                    b.HasIndex("LecturerStudentID");
+
+                    b.HasIndex("ModuleID");
 
                     b.HasIndex("StudentID");
 
@@ -774,23 +779,23 @@ namespace LMS_Demo.Data.Migrations
 
             modelBuilder.Entity("LMS_Demo.Models.Result", b =>
                 {
-                    b.HasOne("LMS_Demo.Models.Assesment", "Assesment")
+                    b.HasOne("LMS_Demo.Models.Assesment", null)
                         .WithMany("Results")
                         .HasForeignKey("AssesmentID");
 
-                    b.HasOne("LMS_Demo.Models.Lecturer", "Lecturer")
+                    b.HasOne("LMS_Demo.Models.Lecturer", null)
                         .WithMany("Results")
-                        .HasForeignKey("LecturerID");
+                        .HasForeignKey("LecturerStudentID");
 
-                    b.HasOne("LMS_Demo.Models.Student", "Student")
+                    b.HasOne("LMS_Demo.Models.Module", "Module")
+                        .WithMany()
+                        .HasForeignKey("ModuleID");
+
+                    b.HasOne("LMS_Demo.Models.Student", null)
                         .WithMany("Results")
                         .HasForeignKey("StudentID");
 
-                    b.Navigation("Assesment");
-
-                    b.Navigation("Lecturer");
-
-                    b.Navigation("Student");
+                    b.Navigation("Module");
                 });
 
             modelBuilder.Entity("LMS_Demo.Models.Section", b =>

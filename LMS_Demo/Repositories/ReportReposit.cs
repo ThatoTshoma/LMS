@@ -18,7 +18,7 @@ namespace LMS_Demo.Repositories
 
         public async Task<IEnumerable<Result>> GetResult()
         {
-            var relationshipsContext = _db.Results.Include(r => r.Assesment).Include(r => r.Student).Include(r => r.Lecturer);
+            var relationshipsContext = _db.Results.Include(r => r.Module).Include(r => r.Mark);
             return await relationshipsContext.ToListAsync();
         }
     }
